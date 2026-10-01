@@ -4,6 +4,6 @@ Site personalizado com os dados fornecidos: Paula Vieny, OAB/PI 20.381, atendime
 
 Paleta escolhida pelo usuário: preto #000000 e vermelho #EF4444, com tons de vermelho nos efeitos existentes. Estrutura, scripts das animações e mídia do hero preservados. CSS Tailwind recompilado e hashes da mídia conferidos.
 
-Logo reconstruída a partir da referência fornecida, em vermelho e com transparência real, aplicada no loader, cabeçalho, favicon e rodapé. Pendências: retrato oficial, avaliações reais e conferência visual em celular, tablet e desktop. O retrato atual é provisório e os espaços de avaliações estão identificados como pendentes.
+Logo reconstruída a partir da referência fornecida, nos tons dourados da referência original e com transparência real, aplicada no loader, cabeçalho, favicon e rodapé. Pendências: retrato oficial, avaliações reais e conferência visual em celular, tablet e desktop. O retrato atual é provisório e os espaços de avaliações estão identificados como pendentes.
 
 Vercel: instalar dependências com npm ci, compilar com npm run build e publicar dist. vercel.json já define framework null, buildCommand e outputDirectory. Não há variáveis de ambiente obrigatórias.
